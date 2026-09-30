@@ -13,8 +13,6 @@
 
 ## 🧭 Tentang Saya
 
-<img align="right" width="320" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 Saya developer full-stack dari **Kota Blitar, Jawa Timur** 🇮🇩 dengan latar belakang unik di dunia **kreatif** — desain grafis, motion graphics, videografi, dan fotografi.
 
 Latar itu membentuk filosofi saya dalam membangun software:
@@ -91,12 +89,7 @@ Perjalanan coding saya dimulai sejak bangku SMK (TKJ), dan kini saya membangun a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yunusafr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusafr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
-
 <img src="https://streak-stats.demolab.com?user=yunusafr&theme=tokyonight&hide_border=true&background=0D1117" height="160" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=yunusafr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
 
 </div>
 
